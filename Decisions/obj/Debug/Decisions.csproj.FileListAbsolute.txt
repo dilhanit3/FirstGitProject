@@ -1,0 +1,18 @@
+E:\LaurieSpace\myInstructorWorld\What is Programming Intro To C# Programming\In Class Exercises Part 1\Decisions\Decisions\bin\Debug\Decisions.exe.config
+E:\LaurieSpace\myInstructorWorld\What is Programming Intro To C# Programming\In Class Exercises Part 1\Decisions\Decisions\bin\Debug\Decisions.exe
+E:\LaurieSpace\myInstructorWorld\What is Programming Intro To C# Programming\In Class Exercises Part 1\Decisions\Decisions\bin\Debug\Decisions.pdb
+E:\LaurieSpace\myInstructorWorld\What is Programming Intro To C# Programming\In Class Exercises Part 1\Decisions\Decisions\obj\Debug\Decisions.csprojResolveAssemblyReference.cache
+E:\LaurieSpace\myInstructorWorld\What is Programming Intro To C# Programming\In Class Exercises Part 1\Decisions\Decisions\obj\Debug\Decisions.exe
+E:\LaurieSpace\myInstructorWorld\What is Programming Intro To C# Programming\In Class Exercises Part 1\Decisions\Decisions\obj\Debug\Decisions.pdb
+E:\LaurieSpace\myInstructorWorld\Intro to C# and Selenium\Completed In Class Demos & Exercises\Decisions\Decisions\bin\Debug\Decisions.exe.config
+E:\LaurieSpace\myInstructorWorld\Intro to C# and Selenium\Completed In Class Demos & Exercises\Decisions\Decisions\bin\Debug\Decisions.exe
+E:\LaurieSpace\myInstructorWorld\Intro to C# and Selenium\Completed In Class Demos & Exercises\Decisions\Decisions\bin\Debug\Decisions.pdb
+E:\LaurieSpace\myInstructorWorld\Intro to C# and Selenium\Completed In Class Demos & Exercises\Decisions\Decisions\obj\Debug\Decisions.csprojResolveAssemblyReference.cache
+E:\LaurieSpace\myInstructorWorld\Intro to C# and Selenium\Completed In Class Demos & Exercises\Decisions\Decisions\obj\Debug\Decisions.exe
+E:\LaurieSpace\myInstructorWorld\Intro to C# and Selenium\Completed In Class Demos & Exercises\Decisions\Decisions\obj\Debug\Decisions.pdb
+C:\Users\Dilhani\Documents\TeacherSolution\TeachersInClass\Decisions\Decisions\bin\Debug\Decisions.exe.config
+C:\Users\Dilhani\Documents\TeacherSolution\TeachersInClass\Decisions\Decisions\obj\Debug\Decisions.exe
+C:\Users\Dilhani\Documents\TeacherSolution\TeachersInClass\Decisions\Decisions\obj\Debug\Decisions.pdb
+C:\Users\Dilhani\Documents\TeacherSolution\TeachersInClass\Decisions\Decisions\bin\Debug\Decisions.exe
+C:\Users\Dilhani\Documents\TeacherSolution\TeachersInClass\Decisions\Decisions\bin\Debug\Decisions.pdb
+C:\Users\Dilhani\Documents\TeacherSolution\TeachersInClass\Decisions\Decisions\obj\Debug\Decisions.csprojResolveAssemblyReference.cache
